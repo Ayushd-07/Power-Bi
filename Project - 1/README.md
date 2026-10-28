@@ -37,13 +37,13 @@ The report combines KPI cards, horizontal bar charts, slicers, and a detailed or
 
 ### 📊 1. Sales Dashboard
 
-<p align="center"><img src="![image alt](https://github.com/Ayushd-07/Power-Bi/blob/main/Project%20-%201/Output%20images/Screenshot%202026-10-28%20111324.png?raw=true)" alt="Superstore Sales Dashboard" width="100%"></p>
+<p align="center"><img src="![image alt](https://github.com/Ayushd-07/Power-Bi/blob/00ee04598ad5566941d92695473678c51edd5147/Project%20-%201/Output%20images/Screenshot%202026-10-28%20111324.png)" alt="Superstore Sales Dashboard" width="100%"></p>
 
 *The main page presents headline KPIs, sales by product category, profit by region, and the Top 5 sub-categories by sales.*
 
 ### 📋 2. Order Details
 
-<p align="center"><img src="![image alt](https://github.com/Ayushd-07/Power-Bi/blob/main/Project%20-%201/Output%20images/Screenshot%202026-10-28%20111406.png?raw=true)" alt="Order Details page" width="100%"></p>
+<p align="center"><img src="![image alt](https://github.com/Ayushd-07/Power-Bi/blob/00ee04598ad5566941d92695473678c51edd5147/Project%20-%201/Output%20images/Screenshot%202026-10-28%20111406.png)" alt="Order Details page" width="100%"></p>
 
 *The Order Details page displays Year, Month, Category, Product Name, Sales, Profit, Quantity, and Region. The table is sorted by sales in descending order to make high-value records easier to review.*
 
